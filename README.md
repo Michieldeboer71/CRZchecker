@@ -1,0 +1,2 @@
+# CRZchecker
+Checker de servidores 
